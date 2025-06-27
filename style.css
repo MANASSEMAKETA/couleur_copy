@@ -1,0 +1,54 @@
+*{
+    padding:0 ;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.couleur_45{
+
+    border: 2px solid ;
+    background-color: #3333;
+    height: 500px;
+    width: 450px;
+}
+.cstyle_23{
+    position: relative;
+    padding-left: 50px;
+    width: 50%;
+    border:;
+    box-sizing: border-box;
+}
+.boustrapes h1{
+    position: relative;
+    padding-left: 32px;
+   font-size: 33px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-weight: 800px;
+}
+.box{
+    position: relative;
+    margin: 150px;
+    top: 300px;
+    border-radius: 4px;
+    font-size: 23px;
+    padding: 10px 20px;
+    border-style: none;
+    background-color: black;
+    color: #fff;
+    cursor: pointer;
+
+}
+.gucci{
+    position: relative;
+    margin: 100px;
+    right:630px;
+    top:300px;
+    border: 2px solid #3333;
+    padding: 10px 20px ;
+
+}
